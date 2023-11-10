@@ -3,6 +3,8 @@
 Cosmograph is an online tool and a JavaScript library for for the visualization and analysis of extensive network graphs and machine learning embeddings. 
 Learn more at [cosmograph.app](https://cosmograph.app).
 
+If you want to submit an issue about Cosmograph, you can do it in our [issues-only repository]([url](https://github.com/cosmograph-org/cosmograph-issues)).
+
 <img src="https://cosmograph.app/assets/images/ui0-f8218d171556658274e76e8ec86deb63.png"/>
 <!--
 
