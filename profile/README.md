@@ -1,13 +1,18 @@
 ## 🪐 Welcome to Cosmograph
 
-Cosmograph is an online tool and a JavaScript library for for the visualization and analysis of extensive network graphs and machine learning embeddings. 
+Cosmograph is an online tool, React / JavaScript library and a Python widget for for the visualization and analysis of large network graphs and machine learning embeddings. 
 Learn more at [cosmograph.app](https://cosmograph.app).
 
 If you want to submit an issue about Cosmograph, you can do it in our [issues-only repository](https://github.com/cosmograph-org/cosmograph-issues). 
 
 If you have any questions, feel free to ask them [here](https://github.com/orgs/cosmograph-org/discussions/categories/q-a) or in our [Discord](https://discord.gg/Rv8RUQuzsx).
 
+<img width="2690" height="1502" alt="main-page-screen" src="https://github.com/user-attachments/assets/1936f298-f9b6-4819-b077-22aec1417ae2" />
+
+<!-- Cosmograph Classic Screenshot
 <img src="https://cosmograph.app/assets/images/ui0-f8218d171556658274e76e8ec86deb63.png"/>
+-->
+
 <!--
 
 **Here are some ideas to get you started:**
